@@ -7,6 +7,9 @@
 
 ## Software Architecture
 
+Access the skeleton positions from the Kinect, the skeleton detection supports up to 6 users with 25 joints and hand three states open, close and lasso.
+Then send the angle data form processing to arduino over the serial port.
+
 ![](https://github.com/secret3557/HCI-Kinect/blob/master/image/UBframe.png)
 
 ---
